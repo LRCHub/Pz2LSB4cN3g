@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "僕のかわい子ちゃん",
+  "base_artist": "MON7A",
+  "createdAt": "2026-03-20T08:39:25.772459Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "僕のかわい子ちゃん",
+      "artist": "MON7A",
+      "has_synced": false,
+      "path": "select/01_僕のかわい子ちゃん_MON7A.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕のかわい子ちゃん",
+      "artist": "MON7A",
+      "has_synced": false,
+      "path": "select/pl_01_僕のかわい子ちゃん_MON7A.txt"
+    }
+  ]
+}
